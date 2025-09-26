@@ -7,3 +7,4 @@ This project implements classic divide-and-conquer algorithms in Java.
 ```bash
 mvn clean compile
 mvn test
+```
